@@ -1,5 +1,4 @@
-# cs6375-miniproject
-Machine Learning Project:
+# Majority Key Prediction
 
 1. Clone the project.
 2. Steps to be done
